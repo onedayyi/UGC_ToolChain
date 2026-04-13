@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a75d8632f2087c8409c02bc140572319, type: 3}
+  m_Name: Buff_ice
+  m_EditorClassIdentifier: 
+  buffId: Buff_ice
+  buffName: "\u5BD2\u51B7"
+  buffDescription: "\u9020\u621050%\u51CF\u901F\u6301\u7EED5\u79D2"
+  buffIcon: {fileID: 0}
+  category: 1
+  effectType: 1
+  attributeType: 3
+  durationType: 1
+  damageType: 0
+  effectValue: 0.5
+  tickInterval: 0.5
+  duration: 5
+  stackable: 0
+  refreshOnReapply: 1
+  maxStack: 3
+  effectPrefab: {fileID: 6116064067461226240, guid: d33671a3318a07f4291179787c17f730, type: 3}
+  applySound: {fileID: 0}
+  tickSound: {fileID: 0}
+  effectColor: {r: 0, g: 0.88434386, b: 1, a: 1}

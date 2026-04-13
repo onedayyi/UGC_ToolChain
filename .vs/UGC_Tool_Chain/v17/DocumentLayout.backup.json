@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|d:\\develop\\unity hub\\gamedevelop\\ugc_tool_chain\\assets\\script\\floor_buff\\protect_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\floor_buff\\protect_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\floor_buff\\spawn_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\floor_buff\\spawn_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|d:\\develop\\unity hub\\gamedevelop\\ugc_tool_chain\\assets\\script\\manager\\tilecomponentmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\tilecomponentmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\data\\database\\tiletypedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\data\\database\\tiletypedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\data\\database\\tilemodeldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\data\\database\\tilemodeldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\tile\\tilevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tile\\tilevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\floor_buff\\poison_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\floor_buff\\poison_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\manager\\maplibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\maplibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\manager\\mapeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\mapeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\manager\\mousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\mousemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\data\\tiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\data\\tiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\data\\buffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\data\\buffdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\floor_buff\\buff_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\floor_buff\\buff_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\floor_buff\\ice_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\floor_buff\\ice_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\floor_buff\\recover_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\floor_buff\\recover_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\manager\\buffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\buffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\floor_buff\\flame_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\floor_buff\\flame_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\data\\wavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\data\\wavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\event\\gameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\event\\gameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\manager\\damagenumbermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\damagenumbermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\effects\\damagenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\effects\\damagenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\ui\\tilepropertyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\tilepropertyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\ui\\mapselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\mapselectorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\ui\\navmeshbaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\navmeshbaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\FloorData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Data\\FloorData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Protect_Floor.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Protect_Floor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Floor_Buff\\Protect_Floor.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Protect_Floor.cs",
+              "RelativeToolTip": "Assets\\Script\\Floor_Buff\\Protect_Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:45:33.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TileComponentModify.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\TileComponentModify.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\TileComponentModify.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\TileComponentModify.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\TileComponentModify.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:42:05.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TileVisual.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Tile\\TileVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Tile\\TileVisual.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Tile\\TileVisual.cs",
+              "RelativeToolTip": "Assets\\Script\\Tile\\TileVisual.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwE0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T14:40:18.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TileTypeDatabase.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\Database\\TileTypeDatabase.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Data\\Database\\TileTypeDatabase.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\Database\\TileTypeDatabase.cs",
+              "RelativeToolTip": "Assets\\Script\\Data\\Database\\TileTypeDatabase.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T14:34:29.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TileModelDatabase.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\Database\\TileModelDatabase.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Data\\Database\\TileModelDatabase.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\Database\\TileModelDatabase.cs",
+              "RelativeToolTip": "Assets\\Script\\Data\\Database\\TileModelDatabase.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T14:25:33.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyMovement.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAiwHYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:59:52.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:59:39.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Recover_Floor.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Recover_Floor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Floor_Buff\\Recover_Floor.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Recover_Floor.cs",
+              "RelativeToolTip": "Assets\\Script\\Floor_Buff\\Recover_Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T08:39:06.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Buff_Floor.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Buff_Floor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Floor_Buff\\Buff_Floor.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Buff_Floor.cs",
+              "RelativeToolTip": "Assets\\Script\\Floor_Buff\\Buff_Floor.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T08:53:54.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ice_Floor.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Ice_Floor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Floor_Buff\\Ice_Floor.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Ice_Floor.cs",
+              "RelativeToolTip": "Assets\\Script\\Floor_Buff\\Ice_Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T04:02:35.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Poison_Floor.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Poison_Floor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Floor_Buff\\Poison_Floor.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Poison_Floor.cs",
+              "RelativeToolTip": "Assets\\Script\\Floor_Buff\\Poison_Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:57:39.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Flame_Floor.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Flame_Floor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Floor_Buff\\Flame_Floor.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Flame_Floor.cs",
+              "RelativeToolTip": "Assets\\Script\\Floor_Buff\\Flame_Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:56:43.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WaveData.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\WaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Data\\WaveData.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\WaveData.cs",
+              "RelativeToolTip": "Assets\\Script\\Data\\WaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T08:20:43.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TilePropertyUI.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\UI\\TilePropertyUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\TilePropertyUI.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\UI\\TilePropertyUI.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\TilePropertyUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:40:17.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MapSelectorUI.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\UI\\MapSelectorUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\MapSelectorUI.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\UI\\MapSelectorUI.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\MapSelectorUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:39:53.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapEditor.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\MapEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\MapEditor.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\MapEditor.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\MapEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:39:28.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapLibrary.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\MapLibrary.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\MapLibrary.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\MapLibrary.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\MapLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:38:41.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MouseManager.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\MouseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\MouseManager.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\MouseManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\MouseManager.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv1YAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:59:56.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NavMeshBaker.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\UI\\NavMeshBaker.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\NavMeshBaker.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\UI\\NavMeshBaker.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\NavMeshBaker.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T15:14:22.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spawn_Floor.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Spawn_Floor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Floor_Buff\\Spawn_Floor.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Spawn_Floor.cs",
+              "RelativeToolTip": "Assets\\Script\\Floor_Buff\\Spawn_Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:17:18.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DamageNumberManager.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\DamageNumberManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\DamageNumberManager.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\DamageNumberManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\DamageNumberManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:58:11.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DamageNumber.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Effects\\DamageNumber.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Effects\\DamageNumber.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Effects\\DamageNumber.cs",
+              "RelativeToolTip": "Assets\\Script\\Effects\\DamageNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:57:55.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FloorData.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\FloorData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Data\\FloorData.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\FloorData.cs",
+              "RelativeToolTip": "Assets\\Script\\Data\\FloorData.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAgwJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:08:43.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TileData.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\TileData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Data\\TileData.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\TileData.cs",
+              "RelativeToolTip": "Assets\\Script\\Data\\TileData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:42:02.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameEvent.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Event\\GameEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Event\\GameEvent.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Event\\GameEvent.cs",
+              "RelativeToolTip": "Assets\\Script\\Event\\GameEvent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:08:17.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BuffManager.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\BuffManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\BuffManager.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\BuffManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\BuffManager.cs",
+              "ViewState": "AgIAAIIBAAAAAAAAAAAAAH0BAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T07:55:57.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuffData.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\BuffData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Data\\BuffData.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\BuffData.cs",
+              "RelativeToolTip": "Assets\\Script\\Data\\BuffData.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:33:27.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|d:\\develop\\unity hub\\gamedevelop\\ugc_tool_chain\\assets\\script\\data\\database\\buffdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\data\\database\\buffdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|d:\\develop\\unity hub\\gamedevelop\\ugc_tool_chain\\assets\\script\\floor_buff\\protect_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\floor_buff\\protect_floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\manager\\tilecomponentmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\tilecomponentmodify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\assets\\script\\tile\\tilevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9B2DFD-F828-4197-43F1-8AB0A17BF338}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tile\\tilevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuffDatabase.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\Database\\BuffDatabase.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Data\\Database\\BuffDatabase.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Data\\Database\\BuffDatabase.cs",
+              "RelativeToolTip": "Assets\\Script\\Data\\Database\\BuffDatabase.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:27:25.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Protect_Floor.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Protect_Floor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Floor_Buff\\Protect_Floor.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Floor_Buff\\Protect_Floor.cs",
+              "RelativeToolTip": "Assets\\Script\\Floor_Buff\\Protect_Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:45:33.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TileComponentModify.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\TileComponentModify.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\TileComponentModify.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Manager\\TileComponentModify.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\TileComponentModify.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:42:05.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TileVisual.cs",
+              "DocumentMoniker": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Tile\\TileVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Tile\\TileVisual.cs",
+              "ToolTip": "D:\\develop\\Unity Hub\\gamedevelop\\UGC_Tool_Chain\\Assets\\Script\\Tile\\TileVisual.cs",
+              "RelativeToolTip": "Assets\\Script\\Tile\\TileVisual.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwE0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T14:40:18.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a75d8632f2087c8409c02bc140572319, type: 3}
+  m_Name: Buff_poison
+  m_EditorClassIdentifier: 
+  buffId: Buff_poison
+  buffName: "\u4E2D\u6BD2"
+  buffDescription: "\u6BCF0.5\u79D2\u53D7\u52305\u70B9\u771F\u5B9E\u4F24\u5BB3"
+  buffIcon: {fileID: 0}
+  category: 1
+  effectType: 0
+  attributeType: 0
+  durationType: 1
+  damageType: 2
+  effectValue: 5
+  tickInterval: 0.5
+  duration: 5
+  stackable: 0
+  refreshOnReapply: 1
+  maxStack: 3
+  effectPrefab: {fileID: 6373141901000434699, guid: f0c812e0c68ee614b89a5727b1d7abf7, type: 3}
+  applySound: {fileID: 0}
+  tickSound: {fileID: 0}
+  effectColor: {r: 0.07875938, g: 0.41509432, b: 0, a: 1}
