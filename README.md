@@ -10,7 +10,7 @@
 
 ## 演示视频
 
-[![演示视频](https://img.youtube.com/vi/你的视频ID/0.jpg)](https://youtu.be/你的视频ID)
+[![演示视频]](https://www.bilibili.com/video/BV1kqQYBoEBJ/?spm_id_from=333.337.search-card.all.click&vd_source=fd94bab371730847e5cd8085f16fcada)
 
 > 点击图片观看 2 分钟演示视频
 
